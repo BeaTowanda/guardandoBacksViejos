@@ -1,0 +1,7 @@
+[
+    {"titulo":"ViaDucto Dorrego","estado": "terminado"},
+    {"titulo": "Av Libertador","estado":"iniciado"},
+    {"titulo":"Juan B Justo","estado":"finalizado"},
+    {"titulo":"Cabildo", "estado": "en proceso"}
+  
+    ]

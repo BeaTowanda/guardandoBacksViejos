@@ -1,0 +1,28 @@
+{
+  "name": "proyecto3",
+  "version": "1.0.0",
+  "description": "nueva prueba 8 -12",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date": "^1.0.2",
+    "express": "^4.17.2",
+    "format": "^0.2.2",
+    "includes": "^0.0.7",
+    "moment": "^2.29.1",
+    "path": "^0.12.7",
+    "replace": "^1.2.1",
+    "save": "^2.4.0",
+    "search": "^1.0.0",
+    "shift": "^0.1.8",
+    "split": "^1.0.1",
+    "switch": "^0.0.0",
+    "trim": "^1.0.1",
+    "unshift": "^0.0.0",
+    "utf-8": "^2.0.0"
+  }
+}
